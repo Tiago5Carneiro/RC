@@ -13,7 +13,7 @@
 | Tiago Guedes     | A97369  |
 | Diogo Gonçalves  | A101919 |
 
-Nota : ??
+Nota : 13,22
 
 </div>
 # RC2425-Grupo-89
